@@ -1,0 +1,11 @@
+C:\Users\lerubo\source\repos\VisorImagenesLRB\VisorImagenesLRB\bin\Debug\VisorImagenesLRB.exe.config
+C:\Users\lerubo\source\repos\VisorImagenesLRB\VisorImagenesLRB\bin\Debug\VisorImagenesLRB.exe
+C:\Users\lerubo\source\repos\VisorImagenesLRB\VisorImagenesLRB\bin\Debug\VisorImagenesLRB.pdb
+C:\Users\lerubo\source\repos\VisorImagenesLRB\VisorImagenesLRB\obj\Debug\VisorImagenesLRB.csprojResolveAssemblyReference.cache
+C:\Users\lerubo\source\repos\VisorImagenesLRB\VisorImagenesLRB\obj\Debug\VisorImagenesLRB.Form1.resources
+C:\Users\lerubo\source\repos\VisorImagenesLRB\VisorImagenesLRB\obj\Debug\VisorImagenesLRB.Properties.Resources.resources
+C:\Users\lerubo\source\repos\VisorImagenesLRB\VisorImagenesLRB\obj\Debug\VisorImagenesLRB.csproj.GenerateResource.Cache
+C:\Users\lerubo\source\repos\VisorImagenesLRB\VisorImagenesLRB\obj\Debug\VisorImagenesLRB.csproj.CoreCompileInputs.cache
+C:\Users\lerubo\source\repos\VisorImagenesLRB\VisorImagenesLRB\obj\Debug\VisorImagenesLRB.exe
+C:\Users\lerubo\source\repos\VisorImagenesLRB\VisorImagenesLRB\obj\Debug\VisorImagenesLRB.pdb
+C:\Users\lerubo\source\repos\VisorImagenesLRB\VisorImagenesLRB\bin\Debug\Visor.dll
